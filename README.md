@@ -499,7 +499,7 @@ First you need to have Home Assistant up and running. If you do not have Home As
 I have installed Hassbian because I wanted to have generic Raspberry Rassbian with Home Assistant installed. 
 For Hassbian you may need this list of commen tasks (https://www.home-assistant.io/docs/installation/hassbian/common-tasks/)
 
-## Setting up the connetion to vacuum ##
+## Setting up the connetion to vacuum ##
 
 To set up the connection, you need to add the vacuum to the Home Assistant configuration.yaml file (on Hassbian it can be found here: /home/homeassistant/.homeassistant/configuration.yaml). There you need to add following component: _xiaomi_miio_
 
