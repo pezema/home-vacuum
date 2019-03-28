@@ -1,6 +1,6 @@
 # How-To: Xiaomi Vacuum robot Gen 1 root update #
 
-Big thank to @dgiese, @JackGruber, @Hypfer
+Big thanks to @dgiese, @JackGruber, @Hypfer and everybody who contributed. 
 
 ## Introducton ##
 This guide provides information how to root Xiaomi Vacuum robot, install software on the robot and also how to connect robot to Home Assistant (see part below)
