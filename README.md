@@ -2,6 +2,9 @@
 
 Big thanks to @dgiese, @JackGruber, @Hypfer and everybody who contributed. 
 
+# Please note that this guide is not compatible with latest Valetudo 0.3 version. But still the process is quire similar. #
+Follow official Valetudo guide: https://github.com/Hypfer/Valetudo/wiki/Installation-Instructions
+
 ## Introducton ##
 This guide provides information how to root Xiaomi Vacuum robot, install software on the robot and also how to connect robot to Home Assistant (see part below)
 
